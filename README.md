@@ -11,4 +11,5 @@ This project compares the performance of different approaches for solving the Tr
 The comparison is performed on TSPLIB benchmark instances.
 
 Author: Kawtar Ait Belaid
+
 Master IARO
